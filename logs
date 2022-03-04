@@ -5,3 +5,4 @@ https://blog.csdn.net/ityard/article/details/119122594
 https://github.com/machaoyin/flask_blog/tree/master
 lask保留了扩增的弹性，可以用Flask-extension加入这些功能：ORM、窗体验证工具、文件上传、各种开放式身份验证技术。
 https://flask.palletsprojects.com/en/2.0.x/extensions/
+https://www.w3cschool.cn/flask/flask_application.html
